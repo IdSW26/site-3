@@ -1,16 +1,21 @@
 main{
     background-color: rgb(0, 140, 255);
     padding-top: 10px;
-    height: 800px;
+    height: 1100px;
+    text-align: center;
+    padding-bottom: 0px;
 }
 header{
     background-color: rgb(160, 160, 160);
-    padding-bottom: 50px;
+    padding-bottom: 0px;
     margin: 0%;
+    text-align: center;
 }
 footer{
     background-color: rgb(160, 160, 160);
     float: none;
+    height: 100px;
+    padding-top: 0px;
 }
 #logo{
     float: left;
@@ -25,10 +30,11 @@ h1{
     padding-right: 535px;
     margin: 0%;
     float: left;
+    text-decoration: underline;
 }
 body{
     margin: 0%;
-    text-align: center;
+    background-color: rgb(0, 140, 255)
 }
 h2{
     padding-bottom: 20px;
@@ -45,4 +51,30 @@ h2{
     width: 50%; 
     margin: 0 auto; 
     display: block; 
+}
+#jogo{
+    height: 200px;
+}
+hr{
+    text-align: left;
+    width: 90%;
+    size: 10px;
+    color: black;
+}
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+  
+a:hover {
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+}  
+a:active {
+    color: rgb(0, 0, 0);
+}
+.linha{
+    width: 100%;
+    background-color: black;
+    height: 2px;
 }

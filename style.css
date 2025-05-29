@@ -1,0 +1,35 @@
+main{
+    background-color: brown;
+    padding-top: 10px;
+    height: 800px;
+}
+header{
+    background-color: aqua;
+    padding-bottom: 50px;
+    margin: 0%;
+}
+footer{
+    background-color: aqua;
+    float: none;
+}
+#logo{
+    float: left;
+    height: 200px;
+}
+h1{
+    padding-top: 100px;
+    margin: 0%;
+}
+body{
+    margin: 0%;
+}
+h2{
+    padding-bottom: 20px;
+    padding-right: 25px;
+}
+#noticia1{
+    height: 200px;
+}
+#estadio{
+    height: 170px;
+}
